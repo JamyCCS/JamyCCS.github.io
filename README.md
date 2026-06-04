@@ -50,6 +50,14 @@ As a Certified SOLIDWORKS Professional (CSWP) and the founder of a 3D printing s
 
 ---
 
+### 💻 Software Simulation & Rendering
+While my core expertise is in rapid prototyping and physical builds, I actively explore industry-standard analysis and visualization software:
+* **ANSYS (Thermal Simulation):** Conducted and documented a battery heat generation simulation to analyze thermal management strategies. [View the simulation breakdown on LinkedIn](https://www.linkedin.com/posts/obidullah-mahmud-jamy_ansys-fluidabrmechanics-simulation-activity-7185202582510829568-Flcu?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADU1P4kBEzu44z_R46SPM_BWrmB0wAXEGl8)
+* **KeyShot (Product Visualization):** Developed high-fidelity 3D product renders to bridge the gap between CAD models and consumer-facing visuals. [Watch the render showcase on YouTube](https://youtu.be/ZAlw-p7Wiqw?si=8L6tZBc5QKDuoCNK)
+
+
+---
+
 ## Education
 **B.Sc. in Mechanical Engineering** | Chittagong University of Engineering & Technology (CUET)
 * *Status: Coursework completed; awaiting graduation certificate. Thesis ongoing.*
