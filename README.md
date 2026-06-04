@@ -13,7 +13,7 @@ As a Certified SOLIDWORKS Professional (CSWP) and the founder of a 3D printing s
 
 ---
 
-## Core Competencies
+##  Core Competencies
 * **Design & CAD:** SOLIDWORKS (CSWP & CSWA Certified), AutoCAD, EasyEDA PCB design, Design for Manufacturability (DFM)
 * **Prototyping & Lab Management:** FDM 3D Printing, G-code optimization, hardware calibration (Elegoo Neptune 4 direct-drive, Klipper firmware tuning)
 * **Computational Analysis:** Physics-Informed Neural Networks (PINNs), Python, C++, Thermal Management, Basic FEA/CFD principles
@@ -21,7 +21,7 @@ As a Certified SOLIDWORKS Professional (CSWP) and the founder of a 3D printing s
 
 ---
 
-## Featured Projects & Experience
+##  Featured Projects & Experience
 
 ###  Dimension 3 Chittagong: Rapid Prototyping Startup
 **Founder & Lead Prototyper** 
@@ -43,7 +43,7 @@ As a Certified SOLIDWORKS Professional (CSWP) and the founder of a 3D printing s
 * Utilizing Python and modern AI stacks to bridge theoretical physics with predictive machine learning applications.
 * Designed custom thermal management cooling setups (including laptop-controlled 12V BLDC fan systems) to stabilize hardware during intensive computational loads.
 
-### ⚙️ Industrial Manufacturing Analysis
+###  Industrial Manufacturing Analysis
 **Student Intern (Industrial Attachment) | KDS KYCR Steel**
 * Completed an on-site industrial attachment analyzing cold rolling manufacturing processes.
 * Tracked material lifecycles, mapped continuous production workflows, and evaluated large-scale manufacturing efficiency.
@@ -51,7 +51,7 @@ As a Certified SOLIDWORKS Professional (CSWP) and the founder of a 3D printing s
 
 ---
 
-### 💻 Software Simulation & Rendering
+###  Software Simulation & Rendering
 While my core expertise is in rapid prototyping and physical builds, I actively explore industry-standard analysis and visualization software:
 * **ANSYS (Thermal Simulation):** Conducted and documented a battery heat generation simulation to analyze thermal management strategies. [View the simulation breakdown on LinkedIn](https://www.linkedin.com/posts/obidullah-mahmud-jamy_ansys-fluidabrmechanics-simulation-activity-7185202582510829568-Flcu?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADU1P4kBEzu44z_R46SPM_BWrmB0wAXEGl8)
 * **KeyShot (Product Visualization):** Developed high-fidelity 3D product renders to bridge the gap between CAD models and consumer-facing visuals. [Watch the render showcase on YouTube](https://youtu.be/ZAlw-p7Wiqw?si=8L6tZBc5QKDuoCNK)
@@ -59,7 +59,7 @@ While my core expertise is in rapid prototyping and physical builds, I actively 
 
 ---
 
-## Education
+##  Education
 **B.Sc. in Mechanical Engineering** | Chittagong University of Engineering & Technology (CUET)
 * *Status: Coursework completed; awaiting graduation certificate. Thesis ongoing.*
 * *GPA 3.01 out of 4.00
@@ -69,7 +69,7 @@ While my core expertise is in rapid prototyping and physical builds, I actively 
 
 ---
 
-## Certifications
+##  Certifications
 * **Certified SOLIDWORKS Professional (CSWP)** – Dassault Systèmes
 * **Certified SOLIDWORKS Associate (CSWA)** – Dassault Systèmes
 * **Computer Aided Design (CAD) Operation, NTVQF Level-III** – Bangladesh Technical Education Board
@@ -77,6 +77,6 @@ While my core expertise is in rapid prototyping and physical builds, I actively 
 
 ---
 
-## Extracurriculars
+##  Extracurriculars
 * **Robo Mechatronics Association Bangladesh (RMA):** Public Relations Secretary; Former Executive. Active participant in RoboSoccer and Line Follower Robot (LFR) competitions.
 * **TechMaestro 1.0:** Runner Up, demonstrating rapid problem-solving in a competitive technical environment.
