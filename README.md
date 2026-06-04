@@ -3,7 +3,7 @@
 I am a mechanical designer and rapid prototyping specialist who recently completed all coursework for a B.Sc. in Mechanical Engineering at Chittagong University of Engineering & Technology (CUET), currently finalizing my undergraduate thesis. 
 
 ---
-🔗 [LinkedIn](https://linkedin.com/in/obidullah-mahmud-jamy) | 🐙 [GitHub](https://github.com/JamyCCS) [Dimension 3](https://www.facebook.com/profile.php?id=61559110432967)
+ [LinkedIn](https://linkedin.com/in/obidullah-mahmud-jamy) |  [GitHub](https://github.com/JamyCCS) [Dimension 3](https://www.facebook.com/profile.php?id=61559110432967)
 
 
 
@@ -24,19 +24,19 @@ As a Certified SOLIDWORKS Professional (CSWP) and the founder of a 3D printing s
 
 ## Featured Projects & Experience
 
-### 🛠️ Dimension 3 Chittagong: Rapid Prototyping Startup
+###  Dimension 3 Chittagong: Rapid Prototyping Startup
 **Founder & Lead Prototyper** 
 * Founded and operate a local 3D printing service focused on delivering high-fidelity FDM prototypes.
 * Manage end-to-end lab operations utilizing an Elegoo Neptune 4 direct-drive printer, featuring custom Klipper firmware tuning for maximum precision.
 * Analyze client CAD files for manufacturability, optimizing print orientation, tolerances, and structural integrity.
 
-### 📐 ESP IoT System Prototype & Enclosure Design
+###  ESP IoT System Prototype & Enclosure Design
 **Hardware & CAD Designer**
 * Designed and assembled a fully functional, independent IoT prototype integrating sensor arrays and programming logic.
 * Engineered a custom structural enclosure utilizing SOLIDWORKS, applying rapid prototyping techniques to achieve precise physical fits for internal components.
 * Designed the underlying electronics and schematics using EasyEDA to ensure seamless electro-mechanical integration.
 
-### 🔬 Applied Computational Modeling for Mechanical Systems
+###  Applied Computational Modeling for Mechanical Systems
 **Undergraduate Researcher (Ongoing Thesis)**
 * Developing advanced computational models applying Physics-Informed Neural Networks (PINNs) to solve complex mechanical engineering problems.
 * Utilizing Python and modern AI stacks to bridge theoretical physics with predictive machine learning applications.
@@ -53,9 +53,10 @@ As a Certified SOLIDWORKS Professional (CSWP) and the founder of a 3D printing s
 ## Education
 **B.Sc. in Mechanical Engineering** | Chittagong University of Engineering & Technology (CUET)
 * *Status: Coursework completed; awaiting graduation certificate. Thesis ongoing.*
+* *GPA 3.01 out of 4.00
 
 **HSC & SSC** | Chattogram College & Chittagong Collegiate School
-* *GPA 5.00 in both examinations.*
+* *GPA 5.00 out 5.00 in both examinations.*
 
 ---
 
