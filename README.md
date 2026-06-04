@@ -1,7 +1,11 @@
 ### Hi there! 👋
 
 I am a mechanical designer and rapid prototyping specialist who recently completed all coursework for a B.Sc. in Mechanical Engineering at Chittagong University of Engineering & Technology (CUET), currently finalizing my undergraduate thesis. 
+
+---
 🔗 [LinkedIn](https://linkedin.com/in/obidullah-mahmud-jamy) | 🐙 [GitHub](https://github.com/JamyCCS) [Dimension 3](https://www.facebook.com/profile.php?id=61559110432967)
+
+
 
 ---
 
