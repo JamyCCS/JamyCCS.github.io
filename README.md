@@ -3,8 +3,7 @@
 I am a mechanical designer and rapid prototyping specialist who recently completed all coursework for a B.Sc. in Mechanical Engineering at Chittagong University of Engineering & Technology (CUET), currently finalizing my undergraduate thesis. 
 
 ---
- [LinkedIn](https://linkedin.com/in/obidullah-mahmud-jamy) |  [GitHub](https://github.com/JamyCCS) |  [Dimension 3](https://www.facebook.com/profile.php?id=61559110432967)
-
+ [LinkedIn](https://linkedin.com/in/obidullah-mahmud-jamy) |  [GitHub](https://github.com/JamyCCS)
 
 
 ---
@@ -35,6 +34,8 @@ As a Certified SOLIDWORKS Professional (CSWP) and the founder of a 3D printing s
 * Designed and assembled a fully functional, independent IoT prototype integrating sensor arrays and programming logic.
 * Engineered a custom structural enclosure utilizing SOLIDWORKS, applying rapid prototyping techniques to achieve precise physical fits for internal components.
 * Designed the underlying electronics and schematics using EasyEDA to ensure seamless electro-mechanical integration.
+* [Check my startup facebook page Dimension 3](https://www.facebook.com/profile.php?id=61559110432967)
+
 
 ###  Applied Computational Modeling for Mechanical Systems
 **Undergraduate Researcher (Ongoing Thesis)**
