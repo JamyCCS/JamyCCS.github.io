@@ -1,5 +1,3 @@
-<img src="DP.png" width="150" style="display: block; margin-bottom: 15px;">
-
 ### Hi there! 👋
 
 I am a mechanical designer and rapid prototyping specialist who recently completed all coursework for a B.Sc. in Mechanical Engineering at Chittagong University of Engineering & Technology (CUET), currently finalizing my undergraduate thesis. 
